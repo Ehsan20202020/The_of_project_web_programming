@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CarAppProject4
+build_property.ProjectDir = D:\Mavad-haye Darsi Semester Panjum 2021.September.27__2021.January.02\Web_programming\Web-ProgrammingTutorials\CarAppProject4\CarAppProject4\

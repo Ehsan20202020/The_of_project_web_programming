@@ -1,0 +1,25 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<section class="jumbotron text-center">
+    <div class="container">
+
+        <h1>@localizer["WelcomeToCar.com"]</h1>
+        <!-- <h1> @@ViewData["WelcomeToCar.com"]</h1>  -->
+        <p>@localizer["paragraph"]</p>
+
+        <p>
+            <a href="#" class="btn btn-primary my-2"> search Cars</a>
+        </p>
+    </div>
+
+</section>
+
+
+
+
